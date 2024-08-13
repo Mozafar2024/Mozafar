@@ -9,8 +9,8 @@ on:
     # Run every 10 minutes
     - cron: "*/10 * * * *"
 
-jobs:
-  build:
+jobs:mozafarsekalio
+  build: bandarabbas 
     runs-on: ubuntu-latest
 
     steps:
