@@ -16,52 +16,52 @@ mozafar_sekaloo2025
 
 Just Copy these links to your client to use :
 
-- Subscription 1:
+- mozisekaloo 1:
 ```
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
 ```
 
-- Subscription 2: 
+- mozisekaloo 2: 
 ```
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub2.txt
 ```
 
-- Subscription 3: 
+- mozisekaloo 3: 
 ```
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub3.txt
 ```
 
-- Subscription 4: 
+- mozisekaloo 4: 
 ```
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub4.txt
 ```
 
-- Subscription 5: 
+- mozisekaloo 5: 
 ```
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub5.txt
 ```
 
-- Subscription 6: 
+- mozisekaloo 6: 
 ```
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub6.txt
 ```
 
-- Subscription 7: 
+- mozisekaloo 7: 
 ```
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub7.txt
 ```
 
-- Subscription 8: 
+- mozisekaloo 8: 
 ```
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub8.txt
 ```
 
-- Subscription 9: 
+- mozisekaloo 9: 
 ```
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
 ```
 
-- Subscription 10: 
+- mozisekaloo 10: 
 ```
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub10.txt
 ```
